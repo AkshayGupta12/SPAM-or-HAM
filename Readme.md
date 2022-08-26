@@ -1,5 +1,5 @@
 # SPAM or HAM
-This project is a part of the Pattern Recognition and Machine Learning Course (CS5691) at I.I.T Madras. We Implemented a spam filter from scratch using two popular machine learning algorithms: **SVM** and **Naive Bayes**. The dataset for training was adapted from the CALO project. We achieved an accuracy of 95.5% using SVM and 67% using the Naive Bayes classifier.
+This project is a part of the **Pattern Recognition and Machine Learning Course (CS5691) at I.I.T Madras**. We Implemented a spam filter from scratch using two popular machine learning algorithms: **SVM** and **Naive Bayes**. The dataset for training was adapted from the CALO project. We achieved an accuracy of 95.5% using SVM and 67% using the Naive Bayes classifier.
 
 The code can be run either from scratch or using the pretrained model:
 From scratch:	
